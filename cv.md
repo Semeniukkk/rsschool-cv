@@ -1,6 +1,7 @@
 1. Roman Semeniuk
-2. Kyiv, Ukraine, tel. +380-98-60-888-72, email:<semeniukry@gmail.com> 
-LinkedIn: <https://www.linkedin.com/in/roman-semeniuk-b27203168/>
+2. Kyiv, Ukraine, tel. +380-98-60-888-72, 
+- email:<semeniukry@gmail.com> 
+- LinkedIn: <https://www.linkedin.com/in/roman-semeniuk-b27203168/>
 3. Gain knowledge to change professions and start working in IT.
 Work experience: February 2016 «-» September 2019 «-» design engineer 
                  September 2019 «-» until now «-» PM
