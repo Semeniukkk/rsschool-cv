@@ -1,69 +1,100 @@
-#block {margin: auto;
-        width: 800px;
+.page{
+   margin: auto;
+   width: 800px;
+   font-family: Verdana;
+   background: rgb(255, 255, 255);
+   padding: 10px;
 }
-#page {
-  border: 5px solid black;
-  margin-top: 5px;
-  font-family: Verdana;
-  background: #333;
-  background-color: #ffebcd;
-  padding: 5px;
+
+.main-page-bloc{
+    background: hsla(71, 12%, 73%, 0.884);
+    border: 5px solid black;
+    margin: auto;
+    padding: 5px;
+
 }
+
+.header{
+    margin: 5px;
+}
+
 .my-photo{
-  padding: 10px;
-  margin-left: 10px;
-}
-.my-name {
+    border-radius: 25px;
+    width: 300px;
 }
 
-.contacts-container {
-  font-size: 16px;
-  font-weight: 400;
-  line-height: 26px;
+.phone{
+    list-style-type: none;
+}
 
+.phone::before{
+    content: "\2706";
 }
-.contacts-title {
-  ;
+
+.home{
+    list-style-type: none;
 }
-.contacts-link {
+
+.home::before{
+    content: "\2602";
 }
-.work-expirience {
+
+.e-mail{
+    list-style-type: none;
 }
-.tech-skills-container {
+
+.e-mail::before{
+    content: "\1F582";
 }
-.tech-skills-title {
+
+.linkedin{
+    list-style-type: none;
 }
+
+.linkedin::before{
+    content: "\270E";
+}
+
 .tech-skills-item {
-  list-style-type: disc;
+    list-style-type: circle;
 }
-.tech-skills-text {
-  font-size: 14px;
-  font-weight: 700;
-  line-height: 24px;
+
+.soft-skills-item{
+    list-style-type: circle;
 }
-.soft-skills-container {
+
+.footer{
+    display: block;
+    margin: auto;
+    width: fit-content;
 }
-.soft-skills-title {
+
+.author{ 
+    font-size: small;
 }
-.soft-skills-item {
+
+.some-logo-youtube {
+    width: 40px;
+    height: 40px;
 }
-.soft-skills-text {
-  font-size: 14px;
-  font-weight: 700;
-  line-height: 24px;
+
+.some-logo-github{
+    width: 40px;
+    height: 40px;
 }
-.projects-title {
+
+.logo-rs{
+    width: 40px;
+    height: 40px;
 }
-.projects-link {
+
+.some-logo-year {
+    width: 40px;
+    height: 40px;
 }
-.education {
-  text-align: left;
-}
+
+
 .english {
-  text-align: center;
-  color: #8a2be2;
-  padding: 10px;
-  font-size: medium;
-  font-size: 16px;
-}
+    font-family: cursive;
+    font-size: medium;
 
