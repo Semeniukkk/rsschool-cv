@@ -1,0 +1,100 @@
+.page{
+   margin: auto;
+   width: 800px;
+   font-family: Verdana;
+   background: rgb(255, 255, 255);
+   padding: 10px;
+}
+
+.main-page-bloc{
+    background: hsla(71, 12%, 73%, 0.884);
+    border: 5px solid black;
+    margin: auto;
+    padding: 5px;
+
+}
+
+.header{
+    margin: 5px;
+}
+
+.my-photo{
+    border-radius: 25px;
+    width: 300px;
+}
+
+.phone{
+    list-style-type: none;
+}
+
+.phone::before{
+    content: "\2706";
+}
+
+.home{
+    list-style-type: none;
+}
+
+.home::before{
+    content: "\2602";
+}
+
+.e-mail{
+    list-style-type: none;
+}
+
+.e-mail::before{
+    content: "\1F582";
+}
+
+.linkedin{
+    list-style-type: none;
+}
+
+.linkedin::before{
+    content: "\270E";
+}
+
+.tech-skills-item {
+    list-style-type: circle;
+}
+
+.soft-skills-item{
+    list-style-type: circle;
+}
+
+.footer{
+    display: block;
+    margin: auto;
+    width: fit-content;
+}
+
+.author{ 
+    font-size: small;
+}
+
+.some-logo-youtube {
+    width: 40px;
+    height: 40px;
+}
+
+.some-logo-github{
+    width: 40px;
+    height: 40px;
+}
+
+.logo-rs{
+    width: 40px;
+    height: 40px;
+}
+
+.some-logo-year {
+    width: 40px;
+    height: 40px;
+}
+
+
+.english {
+    font-family: cursive;
+    font-size: medium;
+
